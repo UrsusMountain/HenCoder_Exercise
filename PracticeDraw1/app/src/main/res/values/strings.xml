@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">draw1</string>
+    <string name="draw_color">drawColor()</string>
+    <string name="draw_circle">drawCircle()</string>
+    <string name="draw_rect">drawRect()</string>
+    <string name="draw_point">drawPoint()</string>
+    <string name="draw_oval">drawOval()</string>
+    <string name="draw_line">drawLine()</string>
+    <string name="draw_round">drawRound()</string>
+    <string name="draw_arc">drawArc()</string>
+    <string name="draw_path">drawPath()</string>
+    <string name="histogram">histogram()</string>
+    <string name="piechart">piechart()</string>
+
+</resources>
